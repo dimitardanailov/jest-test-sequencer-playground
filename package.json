@@ -1,0 +1,15 @@
+{
+  "name": "jest-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config ./src/__tests__/jest-config.json --runInBand"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/test-sequencer": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}

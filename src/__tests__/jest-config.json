@@ -1,0 +1,6 @@
+{
+  "moduleFileExtensions": ["js", "json", "ts"],
+  "testEnvironment": "node",
+  "testRegex": ".test.js$",
+  "testSequencer": "./config/CustomSequencer.js"
+}
